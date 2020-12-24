@@ -21,7 +21,7 @@ namespace resource.package
             public const string EXTENSION = ".WAV";
             public const string GUID = "895957D5-FF20-45A3-B03C-35E6262D2FD6";
             public const string NAME = "Preview-WAV";
-            public const string VERSION = "1.0.1";
+            public const string VERSION = "1.0.2";
         }
 
         protected override async Task InitializeAsync(CancellationToken cancellationToken, IProgress<ServiceProgressData> progress)
